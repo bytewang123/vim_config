@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/wangzijie'
+let g:netrw_dirhist_2='/private/var/root'
+let g:netrw_dirhist_3='/private/var'
+let g:netrw_dirhist_4='/private'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/Users'
+let g:netrw_dirhist_7='/Users/wangzijie'
